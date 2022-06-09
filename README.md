@@ -1,24 +1,7 @@
 # supermall
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 相关笔记地址
+### Github
+https://github.com/lyxlwz/vue-note
+### Gitee
+https://gitee.com/alicloud_75/supermall
